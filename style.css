@@ -1,0 +1,32 @@
+/***** Custome CSS *********/
+
+.container{
+	margin-top:20px
+}
+.btn-right
+{
+	float:right;
+}
+.note-list {
+    padding-top: 23px;
+    padding-bottom: 18px;
+    background-color: #eee;
+    background-color: rgba(86,61,124,.15);
+   
+}
+.btn-space
+{
+	margin-right:10px
+}
+.title-txt
+{
+	padding-top: 0px;
+    padding-bottom: 4px;
+}
+.row-notes
+{
+	margin-bottom:5px;
+}
+.msg{
+    padding : 10px
+}

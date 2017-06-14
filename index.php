@@ -1,8 +1,4 @@
 <?php
-
-
-
-
 include_once("db.php"); // Include Db file for database connection
 
 /******* Delete Call Goes here ********/
